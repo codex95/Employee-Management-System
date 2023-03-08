@@ -1,5 +1,7 @@
 package main.java.com.ems.emsbackend.Model;
 
+import jakarta.persistence.*;
+
 @Entity
 @Table(name = "employees") // Create table name employees
 public class Employee {
