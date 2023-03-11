@@ -1,4 +1,4 @@
-package main.java.com.ems.emsbackend.Model;
+package com.ems.emsbackend.Model;
 
 import jakarta.persistence.*;
 

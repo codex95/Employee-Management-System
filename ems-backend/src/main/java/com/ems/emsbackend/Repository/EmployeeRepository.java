@@ -1,6 +1,6 @@
-package main.java.com.ems.emsbackend.Repository;
+package com.ems.emsbackend.Repository;
 
-import main.java.com.ems.emsbackend.Model.Employee;
+import com.ems.emsbackend.Model.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

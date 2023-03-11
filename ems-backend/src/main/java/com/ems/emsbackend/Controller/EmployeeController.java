@@ -1,7 +1,7 @@
 package com.ems.emsbackend.Controller;
 
-import main.java.com.ems.emsbackend.Model.Employee;
-import main.java.com.ems.emsbackend.Repository.EmployeeRepository;
+import com.ems.emsbackend.Model.Employee;
+import com.ems.emsbackend.Repository.EmployeeRepository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
