@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/ems-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-backend/pom.xml" />
       </list>
     </option>
   </component>
