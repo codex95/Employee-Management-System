@@ -8,7 +8,7 @@ class ListEmployeeComponent extends Component {
     this.state = {
         employees: []
     }
- }
+ }b
 
  componentDidMount() {
     EmployeeService.getEmployees().then((res) => {
